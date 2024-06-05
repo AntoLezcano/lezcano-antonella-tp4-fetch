@@ -16,7 +16,7 @@ const fetchData = async() =>{
             <h3>${pregunt.name} </h3>
             <p> ${pregunt.status} </p>
             <p> ${pregunt.species} </p>
-            <p> ${pregunt.episode} </p>
+            
             `
             contenido.appendChild(item)
 
